@@ -6,13 +6,8 @@
 #include "fstream"
 #include <iomanip>
 #include <string>
+#include <algorithm>
 
 using namespace std;
-
-// #define use_D1Q2 ;
-// #define use_D1Q3 ;
-// #define use_D2Q5 ;
-// #define use_D2Q9 ;
-#define use_D2Q9_P ;
 
 #endif
